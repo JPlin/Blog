@@ -1,6 +1,6 @@
 # Site settings
-title: 
-SEOTitle: 勃客 | Your Blog
+title: JPlin Blog
+SEOTitle: 林金鹏的博客 | JPlin Blog
 header-img: img/home-bg.jpg
 email: jplinforever@gmail.com
 description: "世界上最 ？？的林金鹏 "
@@ -14,7 +14,7 @@ baseurl: "/Blog"         # for example, '/blog' if your blog hosted on 'host/blo
 RSS: false
 weibo_username:     JPlino
 zhihu_username:     None
-github_username:    huxpro
+github_username:    jplin
 #twitter_username:  huxpro
 facebook_username:  huxpro
 
@@ -47,7 +47,7 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+#disqus_username: _林金鹏_
 
 # Duoshuo settings
 duoshuo_username: huxblog
@@ -69,7 +69,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
