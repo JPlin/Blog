@@ -35,7 +35,7 @@ tags:
 后验 ~ 先验*似然 ： 存在下雨的可能（先验），下雨之前会有乌云（似然）~ 通过现在有乌云推断下雨概率（后验）；
 ```
 
-<img class="shadow" width="320" src="img/in-post/post-haha/贝叶斯公式.jpg" />
+<img class="shadow" width="320" src="img/in-post/post-haha/bayesi.jpg" />
 
 ##生成式模型与判别式模型
 
